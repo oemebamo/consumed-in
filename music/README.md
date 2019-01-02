@@ -1,6 +1,6 @@
 # 💿 Music Consumed in 
 
-I keep lists of my favourite new music of the year and favourite reissues on my [Discogs profile](https://www.discogs.com/user/oemebamo/lists) and make Spotify playlists for those who want a listen. 
+I keep lists of my favourite new music of the year and favourite reissues on my [Discogs profile](https://www.discogs.com/user/oemebamo/lists) and make [Spotify playlists](https://open.spotify.com/user/116694013?si=elZ3j5jUQom1bn0mLyu2bw) for those who want a listen. 
 
 ## Best New Music
 

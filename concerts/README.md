@@ -13,4 +13,5 @@ _(Click each year to see a full list of concerts seen that year.)_
 | [2012](2012.md) | Stevie Wonder at Bestival |
 | [2011](2011.md) | Prince at Sint-Pietersplein |
 | [2010](2010.md) | Gil Scott-Heron at Cirque Royale |
+| [2009](2009.md) | Build An Ark at Paradiso |
 

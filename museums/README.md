@@ -39,4 +39,7 @@
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
+| 2015-12-05 | Ugly Belgian Houses | Watt, Gent | ⭐⭐️ |
+| 2015-11-13 | Strook | Budafabriek, Kortrijk | ⭐⭐️ |
 | 2015-08-30 | Dismaland | Brighton | ⭐⭐️⭐️⭐️ |
+| 2015-06-13 | Ryan McGinley | Kunsthal Kade, Amersfoort | ⭐⭐️⭐️⭐️⭐️ |

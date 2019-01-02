@@ -43,3 +43,15 @@
 | 2015-11-13 | Strook | Budafabriek, Kortrijk | ⭐⭐️ |
 | 2015-08-30 | Dismaland | Brighton | ⭐⭐️⭐️⭐️ |
 | 2015-06-13 | Ryan McGinley | Kunsthal Kade, Amersfoort | ⭐⭐️⭐️⭐️⭐️ |
+
+## 2009
+
+| Date | Name | Location | Rating |
+| --- | --- | --- | --- |
+| 2009-07-03 | Banksy | Bristol Museum, Bristol | ⭐⭐⭐½ |
+
+## 2003
+
+| Date | Name | Location | Rating |
+| --- | --- | --- | --- |
+| 2003-09-17 | Young Primitives | Brugge | ⭐⭐⭐ |

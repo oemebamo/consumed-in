@@ -32,6 +32,5 @@
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
-| 2016-08-20 | Expo Salvador Dali | Liège-Guillemins Railway Station, Luik | 
-⭐️⭐️⭐️ |
+| 2016-08-20 | Expo Salvador Dali | Liège-Guillemins Railway Station, Luik | ⭐️⭐️⭐️ |
 | 2016-08-20 | MIMA | Millennium Iconoclast Museum of Art | MIMA, Brussel | ⭐️⭐️⭐️ |

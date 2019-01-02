@@ -22,7 +22,7 @@
 | 2017-10-12 | Soul of a Nation - Art in the age of Black Power | Tate Modern, London | ⭐️⭐️⭐️⭐️ |
 | 2017-10-07 | Roa | At The Gallery, Antwerp | ⭐️⭐️⭐️⭐️ |
 | 2017-10-07 | Rinus Van de Velde | Tim Van Laere Gallery, Antwerp | ⭐️⭐️⭐️⭐️ |
-| 2017-07-19 | Museo Nazionale del Cinema | Turijn | ⭐️⭐️ |
+| 2017-07-19 | Museo Nazionale del Cinema | Turijn | ⭐️ |
 | 2017-05-20 | To The Bone (Roa, Klaas Van der Linden, a.o.) | Mariakerke | ⭐️⭐️⭐️ |
 | 2017-04-14 | Museum Boijmans Van Beuningen | Rotterdam | ⭐️⭐️⭐️ |
 | 2017-04-12 | Oli-B | Alley Art Gallery, Hasselt | ⭐️⭐️⭐️⭐️ |
@@ -39,16 +39,16 @@
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
-| 2015-12-05 | Ugly Belgian Houses | Watt, Gent | ⭐⭐️ |
-| 2015-11-13 | Strook | Budafabriek, Kortrijk | ⭐⭐️ |
-| 2015-08-30 | Dismaland | Brighton | ⭐⭐️⭐️⭐️ |
-| 2015-06-13 | Ryan McGinley | Kunsthal Kade, Amersfoort | ⭐⭐️⭐️⭐️⭐️ |
+| 2015-12-05 | Ugly Belgian Houses | Watt, Gent | ⭐️⭐️ |
+| 2015-11-13 | Strook | Budafabriek, Kortrijk | ⭐️⭐️⭐️ |
+| 2015-08-30 | Dismaland | Brighton | ⭐️⭐️⭐️⭐️ |
+| 2015-06-13 | Ryan McGinley | Kunsthal Kade, Amersfoort | ⭐️⭐️⭐️⭐️⭐️ |
 
 ## 2013
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
-| 2013-07-03 | Paul Klee | Tate Modern, London | |
+| 2013-07-03 | Paul Klee | Tate Modern, London | ⭐️⭐️⭐️ |
 
 ## 2009
 

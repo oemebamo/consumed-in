@@ -34,3 +34,9 @@
 | --- | --- | --- | --- |
 | 2016-08-20 | Expo Salvador Dali | Liège-Guillemins Railway Station, Luik | ⭐️⭐️⭐️ |
 | 2016-08-20 | Millennium Iconoclast Museum of Art | MIMA, Brussel | ⭐️⭐️⭐️ |
+
+## 2015
+
+| Date | Name | Location | Rating |
+| --- | --- | --- | --- |
+| 2015-08-30 | Dismaland | Brighton | ⭐⭐️⭐️⭐️ |

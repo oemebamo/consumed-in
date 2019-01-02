@@ -1,5 +1,7 @@
 # 📖 {media} consumed in {year}
 
+> Lijstjes zijn zo kneuterig & schattig; daar hou ik van.
+
 A log of what concerts I visited, exhibitions I saw, films I watched and so on, per year.
 
 - [Concerts](concerts/README.md)

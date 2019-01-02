@@ -44,6 +44,12 @@
 | 2015-08-30 | Dismaland | Brighton | ⭐⭐️⭐️⭐️ |
 | 2015-06-13 | Ryan McGinley | Kunsthal Kade, Amersfoort | ⭐⭐️⭐️⭐️⭐️ |
 
+## 2013
+
+| Date | Name | Location | Rating |
+| --- | --- | --- | --- |
+| 2013-07-03 | Paul Klee | Tate Modern, London | |
+
 ## 2009
 
 | Date | Name | Location | Rating |

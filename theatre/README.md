@@ -14,13 +14,16 @@
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
+| 2017-12-13 | Tuti Fratelli "De Driestuiversopera" | Vooruit, Gent | ⭐️⭐️ |
 | 2017-11-17 | Rosas "ZEITIGUNG" | Kaaitheater, Brussel | ⭐️⭐️ |
+| 2017-10-25 | Tom Lanoye: Ten Oorlog | Vooruit, Gent | ⭐️⭐️½ |
 
 ## 2016
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
 | 2016-04-19 | In Europa | NTGent, Gent | ⭐️⭐️⭐️⭐️ |
+| 2016-04-08 | Kamagurka | De Werf, Aalst |  |
 | 2016-02-22 | In Europa | NTGent, Gent | ⭐️⭐️⭐️⭐️ |
 
 ## 2015
@@ -47,4 +50,5 @@
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
-| 2008-01-13 | Oresteia | NTGent, Gent | ️ |
+| 2007-07-17 | Kamagurka | Tinnenpot, Gent | ️ |
+| 2007-01-13 | Oresteia | NTGent, Gent | ️ |

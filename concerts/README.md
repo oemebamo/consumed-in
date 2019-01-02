@@ -22,4 +22,5 @@ _(Click each year to see a full list of concerts seen that year.)_
 | [2003](2003.md) | Roy Hargrove at Gent Jazz Festival |
 | [2002](2002.md) | Jaga Jazzist at Ancienne Belgique |
 | [2001](2001.md) | Lamb at Ancienne Belgique |
+| [2000](2000.md) | Roni Size & Reprazent at Pukkelpop |
 

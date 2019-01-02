@@ -1,5 +1,7 @@
 # 🎤 Concerts Consumed in
 
+_(Click each year to see a full list of concerts seen that year.)_
+
 | Year | Favourite Concert |
 | --- | --- |
 | [2018](2018.md) | Nubya Garcia at Worldwide Festival |

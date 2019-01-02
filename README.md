@@ -4,6 +4,7 @@
 
 A log of what concerts I visited, exhibitions I saw, films I watched and so on, per year.
 
+- 📚 [Books](books/README.md)
 - 🎤 [Concerts](concerts/README.md)
 - 🎥 [Movies](movies/README.md)
 - 🌊 [Museums](museums/README.md)

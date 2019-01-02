@@ -24,4 +24,5 @@ _(Click each year to see a full list of concerts seen that year.)_
 | [2001](2001.md) | Lamb at Ancienne Belgique |
 | [2000](2000.md) | Roni Size & Reprazent at Pukkelpop |
 | [1999](1999.md) | Fatboy Slim at Rock Werchter |
+| [1998](1998.md) | Björk at Rock Torhout |
 

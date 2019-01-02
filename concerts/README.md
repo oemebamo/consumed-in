@@ -12,4 +12,5 @@ _(Click each year to see a full list of concerts seen that year.)_
 | [2013](2013.md) | José James at Gent Jazz Festival |
 | [2012](2012.md) | Stevie Wonder at Bestival |
 | [2011](2011.md) | Prince at Sint-Pietersplein |
+| [2010](2010.md) | Gil Scott-Heron at Cirque Royale |
 

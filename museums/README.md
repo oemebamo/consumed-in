@@ -32,8 +32,10 @@
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
+| 2016-11-20 | Berardo Collection | Berardo Collection Museum, Lissabon | ⭐️⭐️ |
 | 2016-08-20 | Expo Salvador Dali | Liège-Guillemins Railway Station, Luik | ⭐️⭐️⭐️ |
 | 2016-08-20 | Millennium Iconoclast Museum of Art | MIMA, Brussel | ⭐️⭐️⭐️ |
+| 2016-05-06 | Jheronimus Bosch | Het Noordbrabants Museum, 's Hertogenbosch | ⭐️⭐️⭐️⭐️ |
 
 ## 2015
 
@@ -41,8 +43,11 @@
 | --- | --- | --- | --- |
 | 2015-12-05 | Ugly Belgian Houses | Watt, Gent | ⭐️⭐️ |
 | 2015-11-13 | Strook | Budafabriek, Kortrijk | ⭐️⭐️⭐️ |
+| 2015-11-04 | Bauhaus-Archiv | Bauhaus-Archiv, Berlijn | ⭐️⭐️⭐️ |
 | 2015-08-30 | Dismaland | Brighton | ⭐️⭐️⭐️⭐️ |
 | 2015-06-13 | Ryan McGinley | Kunsthal Kade, Amersfoort | ⭐️⭐️⭐️⭐️⭐️ |
+| 2015-04-19 | Parra | Kunsthal, Rotterdam | ⭐️⭐️⭐️⭐️⭐️ |
+| 2015-02-08 | Carll Cneut | St. Pietersabdij, Gent | ⭐️⭐️⭐️ |
 
 ## 2013
 

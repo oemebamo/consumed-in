@@ -20,4 +20,5 @@ _(Click each year to see a full list of concerts seen that year.)_
 | [2005](2005.md) | Sleepwalker at De Kreun |
 | [2004](2004.md) | Bembe Segue at Rotterdam Import Festival |
 | [2003](2003.md) | Roy Hargrove at Gent Jazz Festival |
+| [2002](2002.md) | Jaga Jazzist at Ancienne Belgique |
 

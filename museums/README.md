@@ -23,5 +23,15 @@
 | 2017-10-07 | Roa | At The Gallery, Antwerp | ⭐️⭐️⭐️⭐️ |
 | 2017-10-07 | Rinus Van de Velde | Tim Van Laere Gallery, Antwerp | ⭐️⭐️⭐️⭐️ |
 | 2017-07-19 | Museo Nazionale del Cinema | Turijn | ⭐️⭐️ |
+| 2017-05-20 | To The Bone (Roa, Klaas Van der Linden, a.o.) | Mariakerke | ⭐️⭐️⭐️ |
+| 2017-04-14 | Museum Boijmans Van Beuningen | Rotterdam | ⭐️⭐️⭐️ |
 | 2017-04-12 | Oli-B | Alley Art Gallery, Hasselt | ⭐️⭐️⭐️⭐️ |
 | 2017-04-11 | Expo "The World of Charles and Ray Eames" | C-Mine, Genk | ⭐️⭐️ |
+
+## 2016
+
+| Date | Name | Location | Rating |
+| --- | --- | --- | --- |
+| 2016-08-20 | Expo Salvador Dali | Liège-Guillemins Railway Station, Luik | 
+⭐️⭐️⭐️ |
+| 2016-08-20 | MIMA | Millennium Iconoclast Museum of Art | MIMA, Brussel | ⭐️⭐️⭐️ |

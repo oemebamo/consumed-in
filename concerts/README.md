@@ -15,4 +15,5 @@ _(Click each year to see a full list of concerts seen that year.)_
 | [2010](2010.md) | Gil Scott-Heron at Cirque Royale |
 | [2009](2009.md) | Build An Ark at Paradiso |
 | [2008](2008.md) | Stevie Wonder at Ahoy |
+| [2007](2007.md) | The Heritage Orchestra at Handelsbeurs |
 

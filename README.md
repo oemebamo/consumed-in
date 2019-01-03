@@ -2,7 +2,9 @@
 
 > Lijstjes zijn zo kneuterig & schattig; daar hou ik van.
 
-A log of what concerts I visited, exhibitions I saw, films I watched and so on, per year.
+Watching movies, going to concerts, listening to new albums, enjoying art exhibitions; It's an addiction, not a hobby.
+
+I log this to remember.
 
 - 📚 [Books](books/README.md)
 - 🎤 [Concerts](concerts/README.md)

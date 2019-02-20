@@ -55,5 +55,4 @@
 | 2014-10-12 | How Music Works | David Byrne | ⭐️⭐️⭐️⭐️ |
 | 2014-09-26 | Oorlog en Terpentijn | Stefan Hertmans | ⭐️⭐️⭐️⭐️ |
 | 2014-05-11 | Death by Black Hole: And Other Cosmic Quandaries | Neil deGrasse Tyson | ⭐️⭐️⭐️⭐️ |
-| 2014-05-11 | Death by Black Hole: And Other Cosmic Quandaries | Neil deGrasse Tyson | ⭐️⭐️⭐️⭐️ |
 | 2014-03-10 | Iran Awakening: A Memoir of Revolution and Hope | Shirin Ebadi | ⭐️⭐️⭐️⭐️ |

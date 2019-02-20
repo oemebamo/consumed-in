@@ -1,5 +1,12 @@
 # 🌊 Museums & Exhibitions Consumed in 
 
+## 2019
+
+| Date | Name | Location | Rating |
+| --- | --- | --- | --- |
+| 2019-01-27 | Louise Bourgeois, Lygia Pape, Permanent Collection | Glenstone, Potomac, Maryland | ⭐️⭐️⭐️⭐️ |
+
+
 ## 2018
 
 | Date | Name | Location | Rating |

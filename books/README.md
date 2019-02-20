@@ -10,7 +10,7 @@
 
 | Date | Title | Author | Rating |
 | --- | --- | --- | --- |
-| 2018-11-20 | Mythos: The Greek Myths Retold | Stephen Fry | ⭐️⭐️⭐️⭐️⭐️ |
+| 2018-11-29 | Mythos: The Greek Myths Retold | Stephen Fry | ⭐️⭐️⭐️⭐️⭐️ |
 | 2018-11-20 | Artificial stupidity: handleiding voor digitale humanisten | Fredo De Smet | ⭐️⭐️ |
 | 2018-04-29 | Egon Schiele: Drawings and Watercolors | Jane Kallir | ⭐️⭐️⭐️⭐️⭐️ |
 
@@ -21,6 +21,7 @@
 | 2017-08-23 | De Argonauten | Maggie Nelson | ⭐️⭐️⭐️ |
 | 2017-07-29 | De Bekeerlinge | Stefan Hertmans | ⭐️⭐️⭐️ |
 | 2017-07-22 | Het Smelt | Lize Spit | ⭐️⭐️⭐️ |
+| 2017-07-21 | The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory | Brian Greene | ⭐️⭐️⭐️ |
 | 2017-07-16 | Alfred Russel Wallace: Letters from the Malay Archipelago | John Van Wyhe | ⭐️⭐️⭐️⭐️ |
 | 2017-06-11 | Brief aan Cooper en de wereld | Dalilla Hermans | ⭐️⭐️⭐️️ |
 | 2017-06-06 | Guns, Germs, and Steel: The Fates of Human Societies | Jared Diamond | ⭐️⭐️⭐️⭐️️ |
@@ -37,6 +38,7 @@
 
 | Date | Title | Author | Rating |
 | --- | --- | --- | --- |
+| 2015-09-08 | Consciousness Explained | Daniel C Dennet | ⭐️⭐️ |
 | 2015-08-26 | De stad der zienden | Jose Saramango | ⭐️⭐️⭐️️ |
 | 2015-03-08 | Remote: Office Not Required | David Heinemeier Hansson | ⭐️ |
 | 2015-02-20 | The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos | Brian Greene | ⭐️⭐️⭐️⭐️ |

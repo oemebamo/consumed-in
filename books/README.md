@@ -1,5 +1,11 @@
 # 📚 Books Consumed in 
 
+## 2019
+
+| Date | Title | Author | Rating |
+| --- | --- | --- | --- |
+| 2019-02-17 | Feitenkennis | Hans Rosling | ⭐️⭐️⭐️½ |
+
 ## 2018
 
 | Date | Title | Author | Rating |

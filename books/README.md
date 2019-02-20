@@ -29,7 +29,7 @@
 
 ## 2016 
 
-| Date | Title | Author | Rating |
+| Reading Date | Title | Author | Rating |
 | --- | --- | --- | --- |
 | 2016-12-24 | Love Saves the Day: A History of American Dance Music Culture, 1970-1979 | Tim Lawrence | ⭐️⭐️⭐️⭐️ |
 | 2016-08-21 | De verwarde cavia | Paulien Cornelisse | ⭐️⭐️⭐️ |

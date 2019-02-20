@@ -2,13 +2,13 @@
 
 ## 2019
 
-| Date | Title | Author | Rating |
+| Reading Date | Title | Author | Rating |
 | --- | --- | --- | --- |
 | 2019-02-17 | Feitenkennis | Hans Rosling | ⭐️⭐️⭐️½ |
 
 ## 2018
 
-| Date | Title | Author | Rating |
+| Reading Date | Title | Author | Rating |
 | --- | --- | --- | --- |
 | 2018-11-29 | Mythos: The Greek Myths Retold | Stephen Fry | ⭐️⭐️⭐️⭐️⭐️ |
 | 2018-11-20 | Artificial stupidity: handleiding voor digitale humanisten | Fredo De Smet | ⭐️⭐️ |
@@ -16,7 +16,7 @@
 
 ## 2017
 
-| Date | Title | Author | Rating |
+| Reading Date | Title | Author | Rating |
 | --- | --- | --- | --- |
 | 2017-08-23 | De Argonauten | Maggie Nelson | ⭐️⭐️⭐️ |
 | 2017-07-29 | De Bekeerlinge | Stefan Hertmans | ⭐️⭐️⭐️ |
@@ -36,7 +36,7 @@
 
 ## 2015 
 
-| Date | Title | Author | Rating |
+| Reading Date | Title | Author | Rating |
 | --- | --- | --- | --- |
 | 2015-09-08 | Consciousness Explained | Daniel C Dennet | ⭐️⭐️ |
 | 2015-08-26 | De stad der zienden | Jose Saramango | ⭐️⭐️⭐️️ |
@@ -46,7 +46,7 @@
 
 ## 2014
 
-| Date | Title | Author | Rating |
+| Reading Date | Title | Author | Rating |
 | --- | --- | --- | --- |
 | 2014-11-22 | A Walk In The Woods | Bill Bryson | ⭐️⭐️⭐️⭐️ |
 | 2014-11-17 | Herbie Hancock: Possibilities | Herbie Hancock | ⭐️⭐️⭐️⭐️ |

@@ -43,3 +43,17 @@
 | 2015-03-08 | Remote: Office Not Required | David Heinemeier Hansson | ⭐️ |
 | 2015-02-20 | The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos | Brian Greene | ⭐️⭐️⭐️⭐️ |
 | 2015-01-31 | Space is the Place: The Lives and Times of Sun Ra | John Szwed |  |
+
+## 2014
+
+| Date | Title | Author | Rating |
+| --- | --- | --- | --- |
+| 2014-11-22 | A Walk In The Woods | Bill Bryson | ⭐️⭐️⭐️⭐️ |
+| 2014-11-17 | Herbie Hancock: Possibilities | Herbie Hancock | ⭐️⭐️⭐️⭐️ |
+| 2014-11-12 | John Peel | Mick Wall | ⭐️⭐️⭐️ |
+| 2014-10-25 | Impressies van een simpele ziel | Annie M.G. Schmidt | ⭐️⭐️⭐️⭐️ |
+| 2014-10-12 | How Music Works | David Byrne | ⭐️⭐️⭐️⭐️ |
+| 2014-09-26 | Oorlog en Terpentijn | Stefan Hertmans | ⭐️⭐️⭐️⭐️ |
+| 2014-05-11 | Death by Black Hole: And Other Cosmic Quandaries | Neil deGrasse Tyson | ⭐️⭐️⭐️⭐️ |
+| 2014-05-11 | Death by Black Hole: And Other Cosmic Quandaries | Neil deGrasse Tyson | ⭐️⭐️⭐️⭐️ |
+| 2014-03-10 | Iran Awakening: A Memoir of Revolution and Hope | Shirin Ebadi | ⭐️⭐️⭐️⭐️ |

@@ -1,5 +1,11 @@
 # 💃 Theatre Consumed in 
 
+## 2019
+
+| Date | Name | Location | Rating |
+| --- | --- | --- | --- |
+| 2019-03-07 | Even Goede Vrienden, Otto-Jan Ham | Vooruit, Gent | ⭐️⭐️½ |
+
 ## 2018
 
 | Date | Name | Location | Rating |

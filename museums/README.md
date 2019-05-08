@@ -4,6 +4,7 @@
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
+| 2019-05-05 | Bolsena Paintings, Sam Scarpulla | Gent | ⭐️⭐️½ |
 | 2019-01-27 | Louise Bourgeois, Lygia Pape, Permanent Collection | Glenstone, Potomac, Maryland | ⭐️⭐️⭐️⭐️ |
 
 

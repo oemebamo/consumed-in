@@ -2,7 +2,7 @@
 
 I keep lists of my favourite new music of the year and favourite reissues on my [Discogs profile](https://www.discogs.com/user/oemebamo/lists) and make [Spotify playlists](https://open.spotify.com/user/116694013?si=elZ3j5jUQom1bn0mLyu2bw) for those who want a listen. 
 
-## Best New Music
+## 🔥 Best New Music
 
 | Year | Favourite Album | Listen |
 | --- | --- | --- |
@@ -18,7 +18,7 @@ I keep lists of my favourite new music of the year and favourite reissues on my 
 | [2009](https://www.discogs.com/lists/-2009-Best-New-Music/407737) | Jónsi & Alex ‎- Riceboy Sleeps | [🎧](https://open.spotify.com/user/116694013/playlist/4u07fw5FcDODNDD7JB9Ur1) |
 | [2008](https://www.discogs.com/lists/-2008-Best-New-Music/407739) | 2000Black - A Next Set A Rockers | [🎧](https://open.spotify.com/user/116694013/playlist/0VMPAMsSEf1KQD2TtBPjR2) |
 
-## Best Reissues
+## 📦 Best Reissues
 
 | Year | Favourite Album | Listen |
 | --- | --- | --- |

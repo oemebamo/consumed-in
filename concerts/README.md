@@ -25,7 +25,7 @@ _(Click each year to see a full list of concerts seen that year.)_
 | [2001](2001.md) | Lamb at Ancienne Belgique |
 | [2000](2000.md) | Roni Size & Reprazent at Pukkelpop |
 | [1999](1999.md) | Fatboy Slim at Rock Werchter |
-| [1998](1998.md) | Björk at Rock Torhout |
+| [1998](1998.md) | Björk at Rock Werchter |
 | [1997](1997.md) | Daft Punk at Rock Torhout |
 | [1995](1995.md) | Jeff Buckley at Rock Torhout |
 | [1994](1994.md) | Rage Against The Machine at Rock Torhout |

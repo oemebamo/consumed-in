@@ -28,6 +28,7 @@ _(Click each year to see a full list of concerts seen that year.)_
 | [1998](1998.md) | Björk at Rock Torhout |
 | [1997](1997.md) | Daft Punk at Rock Torhout |
 | [1995](1995.md) | Jeff Buckley at Rock Torhout |
+| [1994](1994.md) | Rage Against The Machine at Rock Torhout |
 | [1993](1993.md) | Leonard Cohen at Flanders Expo |
 | [1987](1987.md) |  |
 

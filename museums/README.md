@@ -7,6 +7,7 @@
 | 2019-10-31 | Less Is More, Louise Bourgeois, Voorlinden Collection | Museum Voorlinden, Wassenaar | ⭐️⭐️⭐️⭐️½ |
 | 2019-10-30 | Mondrian & De Stijl | Kunstmuseum, Den Haag | ⭐️⭐️⭐️⭐️ |
 | 2019-10-30 | Monet - The Garden Collection | Kunstmuseum, Den Haag | ⭐️⭐️½ |
+| 2019-10-26 | Borman & Sons (guided tour for babies & kids) | Museum M, Leuven | ⭐️⭐️½ |
 | 2019-05-14 | Tyler Mitchell - I Can Make You Feel Good | FOAM, Amsterdam | ⭐️⭐️⭐️⭐️⭐️ |
 | 2019-05-14 | Hockney, The Joy Of Nature | Van Gogh Museum, Amsterdam | ⭐️⭐️ |
 | 2019-05-05 | Bolsena Paintings, Sam Scarpulla | Gent | ⭐️⭐️½ |

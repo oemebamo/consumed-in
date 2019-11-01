@@ -4,6 +4,7 @@
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
+| 2019-10-26 | Luid (Tout Petit, Lies Cuyvers & Ciska Vanhoyland) | STUK, Leuven | ⭐️⭐️⭐️ |
 | 2019-03-10 | Flamingo (Peuterfestival) | GC 't Groenendal, Merelbeke | ⭐️⭐️½ |
 | 2019-03-07 | Even Goede Vrienden, Otto-Jan Ham | Vooruit, Gent | ⭐️⭐️½ |
 

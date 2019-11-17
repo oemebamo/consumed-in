@@ -26,6 +26,7 @@ I keep lists of my favourite new music of the year and favourite reissues on my 
 | [2017](https://www.discogs.com/lists/-2017-Best-Reissues/377650) | Candeias - Sambaiana | [🎧](https://open.spotify.com/user/116694013/playlist/2EMO7dUsIIBg2TcGqvUQX8) |
 | [2016](https://www.discogs.com/lists/-2016-Best-Reissues/321709) | José Mauro - Obnoxius | [🎧](https://open.spotify.com/user/116694013/playlist/0O3xqjwvGwKuZcagL63Ly8) |
 | [2015](https://www.discogs.com/lists/-2015-Best-Reissues/267680) | Martin L. Dumas, Jr. – Attitude, Belief & Determination | [🎧](https://open.spotify.com/playlist/0dHCQv62T8J7x7NSfNTBuu?si=Q1wbY3gXTHyvFnEL9h7_Lw) |
+| [2014](https://www.discogs.com/lists/-2014-Best-Reissues/269684) | William Onyeabor - William Onyeabor Vol. 1 & 2 | [🎧](https://open.spotify.com/playlist/34xtS9ksWWwO9KvzMAZySH?si=Dv7bCz9JRimy-vVgI_o53w) |
 
 
 

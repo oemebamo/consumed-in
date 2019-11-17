@@ -4,6 +4,7 @@
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
+| 2019-11-15 | One More Day, Stefaan De Croock | Transfo, Zwevegem | ⭐️⭐️⭐️ |
 | 2019-10-31 | Less Is More, Louise Bourgeois, Voorlinden Collection | Museum Voorlinden, Wassenaar | ⭐️⭐️⭐️⭐️½ |
 | 2019-10-30 | Mondrian & De Stijl | Kunstmuseum, Den Haag | ⭐️⭐️⭐️⭐️ |
 | 2019-10-30 | Monet - The Garden Collection | Kunstmuseum, Den Haag | ⭐️⭐️½ |

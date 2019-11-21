@@ -4,6 +4,12 @@
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
+| 2019-11-17 | Manifesto: Art x Agency | Hirshhorn Museum and Sculpture Garden, Washington DC | ⭐️⭐️⭐️½ |
+| 2019-11-17 | Marcel Duchamp: The Barbara & Aaron Levine Collection | Hirshhorn Museum and Sculpture Garden, Washington DC | ⭐️⭐️ |
+| 2019-11-17 | National Museum of African American History and Culture | Washington DC | ⭐️⭐️⭐️⭐️ |
+| 2019-11-17 | Ginny Ruffner: Reforestation of the Imagination | ⭐️⭐️ |
+| 2019-11-17 | Michael Sherrill Retrospective | Renwick Gallery, Washington DC | ⭐️⭐️ |
+| 2019-11-17 | David Best's Temple | Renwick Gallery, Washington DC | ⭐️⭐️½ |
 | 2019-11-15 | One More Day, Stefaan De Croock | Transfo, Zwevegem | ⭐️⭐️⭐️ |
 | 2019-10-31 | Less Is More, Louise Bourgeois, Voorlinden Collection | Museum Voorlinden, Wassenaar | ⭐️⭐️⭐️⭐️½ |
 | 2019-10-30 | Mondrian & De Stijl | Kunstmuseum, Den Haag | ⭐️⭐️⭐️⭐️ |

@@ -12,11 +12,13 @@ I keep lists of my favourite new music of the year and favourite reissues on my 
 | [2015](https://www.discogs.com/lists/-2015-Best-New-Music/267676) | Hiatus Kaiyote - Choose Your Weapon | [🎧](https://open.spotify.com/user/116694013/playlist/2guGeFLVQGqYsUeOkwvyzc) |
 | [2014](https://www.discogs.com/lists/-2014-Best-New-Music/269679) | Flying Lotus - You're Dead! | [🎧](https://open.spotify.com/user/116694013/playlist/7b0y2TIqqLBdynSxEvl8Bm) |
 | [2013](https://www.discogs.com/lists/-2013-Best-New-Music/269680) | José James - No Beginning, No End | [🎧](https://open.spotify.com/user/116694013/playlist/2JvGAF8MpqMJuwEvQyFMEN) |
-| [2012](https://www.discogs.com/lists/-2012-Best-New-Music/269692) | Sigur Rós ‎- Valtari | [🎧](https://open.spotify.com/user/116694013/playlist/5gSeqacokV89uIBoOSWKZW) |
+| [2012](https://www.discogs.com/lists/-2012-Best-New-Music/269692) | Sigur Rós - Valtari | [🎧](https://open.spotify.com/user/116694013/playlist/5gSeqacokV89uIBoOSWKZW) |
 | [2011](https://www.discogs.com/lists/-2011-Best-New-Music/407692) | Teebs - Collections | [🎧](https://open.spotify.com/user/116694013/playlist/3WCTw8YbpxrKCxK4cASVTy) |
 | [2010](https://www.discogs.com/lists/-2010-Best-New-Music/407700) | Flying Lotus - Cosmogramma | [🎧](https://open.spotify.com/user/116694013/playlist/1vEIDiRBhTG4hLMgspfAfx) |
-| [2009](https://www.discogs.com/lists/-2009-Best-New-Music/407737) | Jónsi & Alex ‎- Riceboy Sleeps | [🎧](https://open.spotify.com/user/116694013/playlist/4u07fw5FcDODNDD7JB9Ur1) |
+| [2009](https://www.discogs.com/lists/-2009-Best-New-Music/407737) | Jónsi & Alex - Riceboy Sleeps | [🎧](https://open.spotify.com/user/116694013/playlist/4u07fw5FcDODNDD7JB9Ur1) |
 | [2008](https://www.discogs.com/lists/-2008-Best-New-Music/407739) | 2000Black - A Next Set A Rockers | [🎧](https://open.spotify.com/user/116694013/playlist/0VMPAMsSEf1KQD2TtBPjR2) |
+| [1999](https://www.discogs.com/lists/-1999-Best-New-Music/537570) | Neon Phusion – The Future Aint' The Same As It Used 2 B | [🎧](https://open.spotify.com/playlist/0WoZL95rx39trBwJEanGtZ?si=jZJruV6KTFSGceTj6xqG4g) |
+| [1998](https://www.discogs.com/lists/-1998-Best-New-Music/538369) | Lauryn Hill – The Miseducation Of Lauryn Hill | [🎧](https://open.spotify.com/playlist/6H1TX689u48GI6E48Y5xPj?si=XfDNcq8iSZm9I8e1mEzG2g) |
 
 ## 📦 Best Reissues
 

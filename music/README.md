@@ -6,6 +6,7 @@ I keep lists of my favourite new music of the year and favourite reissues on my 
 
 | Year | Favourite Album | Listen |
 | --- | --- | --- |
+| [2019](https://www.discogs.com/lists/-2019-Best-New-Music/477834) | Hania Rani - Esja | [🎧](https://open.spotify.com/playlist/20FvwdYGpIbY2Y5ZjWZo7Y?si=8gTX4khPRAyTRp8sIpjkwA) |
 | [2018](https://www.discogs.com/lists/-2018-Best-New-Music/407504) | Alpha Mist - Antiphon | [🎧](https://open.spotify.com/user/116694013/playlist/4Kb3fCdASK1G2DB33bdlpb?si=EDIto6EFSWKNNgUM1ArxSg) |
 | [2017](https://www.discogs.com/lists/-2017-Best-New-Music/377551) | Moses Sumney - Aromanticism | [🎧](https://open.spotify.com/user/116694013/playlist/4ocBlXla0rcgXYGEAlZiyR) |
 | [2016](https://www.discogs.com/lists/-2016-Best-New-Music/321740) | Yussef Kamaal - Black Focus | [🎧](https://open.spotify.com/user/116694013/playlist/0ATpsCwLlpjneikmFHS9bm) |

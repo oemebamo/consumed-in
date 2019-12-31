@@ -4,6 +4,7 @@
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
+| 2019-11-24 | Collection | Natural Sciences Museum, Brussels | ⭐️⭐️½ |
 | 2019-11-17 | Manifesto: Art x Agency | Hirshhorn Museum and Sculpture Garden, Washington DC | ⭐️⭐️⭐️½ |
 | 2019-11-17 | Marcel Duchamp: The Barbara & Aaron Levine Collection | Hirshhorn Museum and Sculpture Garden, Washington DC | ⭐️⭐️ |
 | 2019-11-17 | National Museum of African American History and Culture | Washington DC | ⭐️⭐️⭐️⭐️ |

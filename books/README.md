@@ -4,6 +4,7 @@
 
 | Reading Date | Title | Author | Rating |
 | --- | --- | --- | --- |
+| 2019-12-31 | Taal Voor De Leuk | Paulien Cornelisse | ⭐️⭐️⭐️½ |
 | 2019-02-17 | Feitenkennis | Hans Rosling | ⭐️⭐️⭐️½ |
 
 ## 2018

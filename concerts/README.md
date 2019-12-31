@@ -4,7 +4,7 @@ _(Click each year to see a full list of concerts seen that year.)_
 
 | Year | Favourite Concert |
 | --- | --- |
-| [2019](2019.md) |  |
+| [2019](2019.md) | Pharoah Sanders Quartet at Jazz Middelheim |
 | [2018](2018.md) | Ezra Collective at Ancienne Belgique |
 | [2017](2017.md) | Nubya Garcia at Worldwide Festival |
 | [2016](2016.md) | Anderson .Paak at Botanique |

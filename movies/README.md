@@ -4,6 +4,7 @@ I keep track of which movies I see and make lists of my favourite movies on my [
 
 | Year | Favourite Movie |
 | --- | --- |
+| [2019](https://letterboxd.com/oemebamo/list/2019-releases-ranked/) | **Blindspotting** (Carlos López Estrada) |
 | [2018](https://letterboxd.com/oemebamo/list/2018-releases-ranked/) | **Call Me By Your Name** (Luca Guadagnino) |
 | [2017](https://letterboxd.com/oemebamo/list/2017-releases-ranked/) | **Moonlight** (Barry Jenkins) |
 | [2016](https://letterboxd.com/oemebamo/list/2016-releases-ranked/) | **Tangerine** (Sean Baker) |

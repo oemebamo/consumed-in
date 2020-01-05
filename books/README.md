@@ -1,10 +1,18 @@
 # 📚 Books Consumed in 
 
+## 2020
+
+| Reading Date | Title | Author | Rating |
+| --- | --- | --- | --- |
+| 2020-01-05 | Verdwaalde Stad | Jean-Paul Van Bendeghem | ⭐️⭐️ |
+
+
 ## 2019
 
 | Reading Date | Title | Author | Rating |
 | --- | --- | --- | --- |
 | 2019-12-31 | Taal Voor De Leuk | Paulien Cornelisse | ⭐️⭐️⭐️½ |
+| 2019-12-26 | Habitus | Radna Fabias | ⭐️⭐️⭐️⭐️⭐️ |
 | 2019-02-17 | Feitenkennis | Hans Rosling | ⭐️⭐️⭐️½ |
 
 ## 2018

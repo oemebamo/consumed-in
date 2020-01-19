@@ -19,7 +19,7 @@ I keep lists of my favourite new music of the year and favourite reissues on my 
 | [2009](https://www.discogs.com/lists/-2009-Best-New-Music/407737) | Jónsi & Alex - Riceboy Sleeps | [🎧](https://open.spotify.com/user/116694013/playlist/4u07fw5FcDODNDD7JB9Ur1) |
 | [2008](https://www.discogs.com/lists/-2008-Best-New-Music/407739) | 2000Black - A Next Set A Rockers | [🎧](https://open.spotify.com/user/116694013/playlist/0VMPAMsSEf1KQD2TtBPjR2) |
 | [2001](https://www.discogs.com/lists/-2001-Best-New-Music/538381) | 4 hero - Creating Patterns | [🎧](https://open.spotify.com/playlist/5twcMjw2isl4ynBKiTso2I?si=Ctnera80TNisfnfurO5WPw) |
-| [2000](https://www.discogs.com/lists/-2000-Best-New-Music/538375) | Radiohead - Kid A | [🎧](https://open.spotify.com/playlist/3xVcJNngbOAfDfimf9KHSg?si=MLsmLh6JRDiRdMnqeqWhbQ) |
+| [2000](https://www.discogs.com/lists/-2000-Best-New-Music/538375) | D'Angelo - Voodoo | [🎧](https://open.spotify.com/playlist/3xVcJNngbOAfDfimf9KHSg?si=MLsmLh6JRDiRdMnqeqWhbQ) |
 | [1999](https://www.discogs.com/lists/-1999-Best-New-Music/537570) | Neon Phusion – The Future Aint' The Same As It Used 2 B | [🎧](https://open.spotify.com/playlist/0WoZL95rx39trBwJEanGtZ?si=jZJruV6KTFSGceTj6xqG4g) |
 | [1998](https://www.discogs.com/lists/-1998-Best-New-Music/538369) | Grooverider - Mysteries of Funk | [🎧](https://open.spotify.com/playlist/6H1TX689u48GI6E48Y5xPj?si=XfDNcq8iSZm9I8e1mEzG2g) |
 

@@ -1,5 +1,11 @@
 # 💃 Theatre Consumed in 
 
+## 2020
+
+| Date | Name | Location | Rating |
+| --- | --- | --- | --- |
+| 2020-07-18 | ? en zijn Paard | Theaterzaal Op de Wolken, Gent | ⭐️ |
+
 ## 2019
 
 | Date | Name | Location | Rating |

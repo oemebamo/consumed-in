@@ -4,7 +4,11 @@
 
 | Reading Date | Title | Author | Rating |
 | --- | --- | --- | --- |
+| 2020-09-02 | De cursus 'Omgaan met teleurstellingen' gaat wederom niet door: verzamelde vertelsels | Herman Finkers | ⭐️⭐️⭐️⭐️ |
+| 2020-08-04 | How to Be an Antiracist | Ibram X. Kendi | ⭐️⭐️⭐️⭐️ |
+| 2020-07-19 | The Body: A Guide For Occupants | Bill Bryson | ⭐️⭐️⭐️⭐️ |
 | 2020-01-05 | Verdwaalde Stad | Jean-Paul Van Bendeghem | ⭐️⭐️ |
+| 2020-01-01 | Ode aan de verwondering | Caroline Pauwels | ⭐️⭐️⭐️ |
 
 
 ## 2019

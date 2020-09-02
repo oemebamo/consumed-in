@@ -4,7 +4,9 @@
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
-| 2019-11-24 | Kris Martin : Exit | S.M.A.K., Gent  | ⭐️⭐️⭐️ |
+| 2020-07-28 | Kris Martin : Exit | S.M.A.K., Gent  | ⭐️⭐️⭐️ |
+| 2020-02-16 | Van Eyck. Een optische revolutie | Museum voor Schone Kunsten, Gent  | ⭐️⭐️⭐️⭐️ |
+| 2020-01-03 | Collection | Musée Matisse, Le Cateau-Cambrésis  | ⭐️⭐️⭐️ |
 
 ## 2019
 

@@ -1,5 +1,11 @@
 # 🌊 Museums & Exhibitions Consumed in 
 
+## 2020
+
+| Date | Name | Location | Rating |
+| --- | --- | --- | --- |
+| 2019-11-24 | Kris Martin : Exit | S.M.A.K., Gent  | ⭐️⭐️⭐️ |
+
 ## 2019
 
 | Date | Name | Location | Rating |

@@ -27,6 +27,7 @@ I keep lists of my favourite new music of the year and favourite reissues on my 
 
 | Year | Favourite Album | Listen |
 | --- | --- | --- |
+| [2020](https://www.discogs.com/lists/-2020-Best-Reissues/550166) | Twylyte '81 – The First Coming | [🎧](https://open.spotify.com/playlist/4ptHHmEYtjVYgWdkZYUBqu?si=JXgQ4GAUSFuKewQLJANNYA) |
 | [2019](https://www.discogs.com/lists/-2019-Best-Reissues/477833) | Clifford Jordan Quartet – Glass Bead Games | [🎧](https://open.spotify.com/playlist/2wa3K77HTOGbsxIufvtbbC?si=yx-CWQY6TfSYOwXzqWSD_g) |
 | [2018](https://www.discogs.com/lists/-2018-Best-Reissues/407505) | Bobby Wright - Blood Of An American | [🎧](https://open.spotify.com/user/116694013/playlist/5mcclZb53s1OfbKPCVL0Tq?si=g7_2mkG4RXGAa-Sjz7JkqQ) |
 | [2017](https://www.discogs.com/lists/-2017-Best-Reissues/377650) | Candeias - Sambaiana | [🎧](https://open.spotify.com/user/116694013/playlist/2EMO7dUsIIBg2TcGqvUQX8) |

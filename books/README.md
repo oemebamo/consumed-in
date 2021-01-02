@@ -4,6 +4,10 @@
 
 | Reading Date | Title | Author | Rating |
 | --- | --- | --- | --- |
+| 2020-11-26 | Weg van het Piekeren | Filip Raes | ⭐️⭐️⭐️⭐️ |
+| 2020-11-22 | Het Recht van de Snelste | Thalia Verkade | ⭐️⭐️⭐️⭐️ |
+| 2020-11-15 | Solo (Thomas De Gendt) | Jonas Heyerick | ⭐️⭐️ |
+| 2020-11-11 | Data Feminism | Catherine D’Ignazio | ⭐️⭐️⭐️⭐️ |
 | 2020-09-02 | De cursus 'Omgaan met teleurstellingen' gaat wederom niet door: verzamelde vertelsels | Herman Finkers | ⭐️⭐️⭐️⭐️ |
 | 2020-08-04 | How to Be an Antiracist | Ibram X. Kendi | ⭐️⭐️⭐️⭐️ |
 | 2020-07-19 | The Body: A Guide For Occupants | Bill Bryson | ⭐️⭐️⭐️⭐️ |

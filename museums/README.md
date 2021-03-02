@@ -4,6 +4,13 @@
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
+| 2021-02-18 | Verisimilitude - Félix Luque Sanchez | MiMa, Brussel  | ⭐️⭐️⭐️½ |
+| 2021-02-18 | It Never Ends (Part 2) - John Armleder | Kanal, Centre Pompidou, Brussel  | ½ |
+
+## 2020
+
+| Date | Name | Location | Rating |
+| --- | --- | --- | --- |
 | 2020-12-28 | Lam Gods | St. Baafskathedraal, Gent  | ⭐️⭐️⭐️⭐️⭐️ |
 | 2020-12-23 | Sam Scarpulla | Rufus Gallery, Gent  | ⭐️⭐️½ |
 | 2020-07-28 | Kris Martin : Exit | S.M.A.K., Gent  | ⭐️⭐️⭐️ |

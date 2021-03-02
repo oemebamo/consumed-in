@@ -1,6 +1,6 @@
 # 🌊 Museums & Exhibitions Consumed in 
 
-## 2020
+## 2021
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |

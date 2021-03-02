@@ -1,5 +1,11 @@
 # 📚 Books Consumed in 
 
+## 2021
+
+| Reading Date | Title | Author | Rating |
+| --- | --- | --- | --- |
+| 2021-02-07 | The Power Meter Handbook: A User's Guide for Cyclists and Triathletes | Joe Friel | ⭐️⭐️⭐️ |
+
 ## 2020
 
 | Reading Date | Title | Author | Rating |

@@ -1,5 +1,11 @@
 # 💃 Theatre Consumed in 
 
+## 2021
+
+| Date | Name | Location | Rating |
+| --- | --- | --- | --- |
+| 2021-10-24 | Kom Wel (4Hoog) | Minnemeers, Gent | ⭐️⭐️⭐️⭐ |
+
 ## 2020
 
 | Date | Name | Location | Rating |

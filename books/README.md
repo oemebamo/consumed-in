@@ -4,6 +4,11 @@
 
 | Reading Date | Title | Author | Rating |
 | --- | --- | --- | --- |
+| 2021-10-23 | De hemels is altijd paars | Sholeh Rezazadeh | ⭐️⭐️⭐️ |
+| 2021-10-23 | Socrates op de fiets. Een filosofische Tour de France | Guillaume Martin | ⭐️⭐️⭐️⭐️ |
+| 2021-07-25 | Idulfania | Brecht Evens | ⭐️⭐️⭐️⭐️ |
+| 2021-07-25 | Ik wilde geen kinderen (en nu heb ik er twee) | Wim Oosterlinck | ⭐️⭐️⭐️ |
+| 2021-04-15 | Mild Ouderschap | Nina Mouton | ⭐️⭐️⭐️ |
 | 2021-02-07 | The Power Meter Handbook: A User's Guide for Cyclists and Triathletes | Joe Friel | ⭐️⭐️⭐️ |
 
 ## 2020

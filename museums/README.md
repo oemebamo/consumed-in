@@ -4,6 +4,10 @@
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
+| 2021-08-24 | Brecht Evens | Villa Verbeelding, Hasselt  | ⭐️⭐️⭐️ |
+| 2021-08-24 | Brecht Evens | Grim, Hasselt  | ⭐️⭐️⭐️⭐️ |
+| 2021-04-10 | Home Stories | Design Museum, Gent  | ⭐️⭐️⭐️ |
+| 2021-03-07 | Collectie | Museum Gevaert-Minne  | ⭐️⭐️⭐️ |
 | 2021-02-18 | Verisimilitude - Félix Luque Sanchez | MiMa, Brussel  | ⭐️⭐️⭐️½ |
 | 2021-02-18 | It Never Ends (Part 2) - John Armleder | Kanal, Centre Pompidou, Brussel  | ½ |
 

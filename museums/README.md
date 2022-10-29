@@ -1,9 +1,24 @@
 # 🌊 Museums & Exhibitions Consumed in 
 
+## 2022
+
+| Date | Name | Location | Rating |
+| --- | --- | --- | --- |
+| 2022-10-15 | Recaptioning Congo | FOMU, Fotomuseum Antwerpen   | ⭐️⭐️⭐️ |
+| 2022-10-15 | TAL R | Tim Van Laere Gallery, Antwerpen   | ⭐️ |
+| 2022-10-15 | Collection | Red Star Line Museum, Antwerpen   | ⭐️⭐️⭐️ |
+| 2022-10-10 | Collection | Fondation Folon, Brussels   | ⭐️⭐️⭐️⭐️ |
+| 2022-08-10 | Collection | Seattle Art Museum, Seattle | ⭐️⭐️⭐️ |
+| 2022-07-10 | Collection | Labiomista, Genk | ⭐️⭐️ |
+| 2022-05-01 | Rinus Van De Velde | Bozar, Brussel | ⭐️⭐️⭐️⭐️⭐️ |
+| 2022-04-08 | Collection | Verbeke Foundation, Kemzeke | ⭐️⭐️⭐ |
+| 2022-04-06 | Collection | Kröller-Müllermuseum, Otterlo | ⭐️⭐️⭐ |
+
 ## 2021
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
+| 2021-11-06 |  | Keteleer Gallery, Antwerpen  | ⭐️⭐️ |
 | 2021-08-24 | Brecht Evens | Villa Verbeelding, Hasselt  | ⭐️⭐️⭐️ |
 | 2021-08-24 | Brecht Evens | Grim, Hasselt  | ⭐️⭐️⭐️⭐️ |
 | 2021-04-10 | Home Stories | Design Museum, Gent  | ⭐️⭐️⭐️ |

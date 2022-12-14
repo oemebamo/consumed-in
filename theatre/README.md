@@ -1,5 +1,11 @@
 # 💃 Theatre Consumed in 
 
+## 2022
+
+| Date | Name | Location | Rating |
+| --- | --- | --- | --- |
+| 2022-09-27 | Gardenia 10 jaar later | NTGent, Gent | ⭐️⭐️⭐️⭐⭐ |
+
 ## 2021
 
 | Date | Name | Location | Rating |

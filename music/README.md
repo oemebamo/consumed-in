@@ -6,6 +6,8 @@ I keep lists of my favourite new music of the year and favourite reissues on my 
 
 | Year | Favourite Album | Listen |
 | --- | --- | --- |
+| [2022](https://www.discogs.com/lists/-2022-Best-New-Music/1174663) | Samora Pinderhughes – Grief | [🎧](https://open.spotify.com/playlist/5Qb401GPNvOCSwn1UU5m9Q?si=75962d16cbc04682) |
+| [2021](https://www.discogs.com/lists/-2021-Best-New-Music/913573) | Floating Points, Pharoah Sanders & The London Symphony Orchestra – Promises | [🎧](https://open.spotify.com/playlist/4GYCNVv6srFdF2xdAbxNno?si=61d2bef814824323) |
 | [2020](https://www.discogs.com/lists/-2020-Best-New-Music/552240) | Sault - Untitled (Black Is / Rise) | [🎧](https://open.spotify.com/playlist/3RrRRrNusnqNZF7XWP8dKx?si=aGoXYNxNRx-d6UF-XKoy9g) |
 | [2019](https://www.discogs.com/lists/-2019-Best-New-Music/477834) | Hania Rani - Esja | [🎧](https://open.spotify.com/playlist/20FvwdYGpIbY2Y5ZjWZo7Y?si=8gTX4khPRAyTRp8sIpjkwA) |
 | [2018](https://www.discogs.com/lists/-2018-Best-New-Music/407504) | Alpha Mist - Antiphon | [🎧](https://open.spotify.com/user/116694013/playlist/4Kb3fCdASK1G2DB33bdlpb?si=EDIto6EFSWKNNgUM1ArxSg) |

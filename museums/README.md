@@ -1,5 +1,25 @@
 # 🌊 Museums & Exhibitions Consumed in 
 
+## 2023
+
+| Date | Name | Location | Rating |
+| --- | --- | --- | --- |
+| 2023-04-20 | Paestum | Paestum | ⭐️⭐️⭐️⭐️ |
+| 2023-04-17 | Museo di Capodimonte | Napoli | ⭐️⭐️⭐️ |
+| 2023-04-17 | Catacombs of San Gennaro | Napoli | ⭐️⭐️½ |
+| 2023-04-17 | Palazzo Reale di Napoli | Napoli | ⭐️⭐️ |
+| 2023-04-15 | MANN | Napoli | ⭐️⭐️⭐️⭐️⭐️ |
+| 2023-04-14 | Pompeii | Pompeii | ⭐️⭐️⭐️⭐️⭐️ |
+| 2023-04-05 | Villa d'Este | Tivoli | ⭐️⭐️⭐️⭐️ |
+| 2023-04-02 | MAXXI – National Museum of the 21st Century Arts | Roma | ⭐️⭐️⭐️ |
+| 2023-03-31 | Trevi Fountain | Roma | ⭐️⭐️⭐️⭐️⭐️ |
+| 2023-03-31 | Pantheon | Roma | ⭐️⭐️⭐️⭐️⭐️ |
+| 2023-03-31 | Fori Imperiali | Roma | ⭐️⭐️⭐️⭐️⭐️ |
+| 2023-03-11 | Duomo | Siena | ⭐️⭐️⭐️⭐️⭐️ |
+| 2023-03-02 | Palazzo Pitti | Firenze | ⭐️⭐️⭐️⭐️ |
+| 2023-03-01 | Uffizi Gallery (Galleria degli Uffizi) | Firenze | ⭐️⭐️⭐️⭐️⭐️ |
+| 2023-02-20 | Boekentoren | Gent | ⭐️⭐️⭐️ |
+
 ## 2022
 
 | Date | Name | Location | Rating |

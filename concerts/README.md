@@ -4,6 +4,7 @@ _(Click each year to see a full list of concerts seen that year.)_
 
 | Year | Favourite Concert |
 | --- | --- |
+| [2024](2024.md) |  |
 | [2023](2023.md) | Hania Rani at Ancienne Belgique |
 | [2022](2022.md) | Zwangere Guy & Lander Gyselinck at Ancienne Belgique |
 | [2021](2021.md) | Naima Joris at Ancienne Belgique |

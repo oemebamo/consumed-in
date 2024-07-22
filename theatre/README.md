@@ -1,5 +1,13 @@
 # 💃 Theatre Consumed in 
 
+
+
+## 2024
+
+| Date | Name | Location | Rating |
+| --- | --- | --- | --- |
+| 2024-04-26 | Bedankt om te komen (Jade Mintjes) | Minard, Gent | ⭐️⭐️⭐️ |
+
 ## 2022
 
 | Date | Name | Location | Rating |

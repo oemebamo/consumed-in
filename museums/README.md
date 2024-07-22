@@ -1,5 +1,18 @@
 # 🌊 Museums & Exhibitions Consumed in 
 
+## 2024
+
+| Date | Name | Location | Rating |
+| --- | --- | --- | --- |
+| 2023-05-19 | Jef Verheyen, Window on Infinity | KMSK, Antwerp | ⭐️⭐️⭐️½ |
+| 2023-04-28 | In Limbo (Strook) | Nosbaum Reding, Brussels | ⭐️⭐️⭐️ |
+| 2023-04-21 | Castles in the Sky | Gent | ⭐️⭐️ |
+| 2023-04-12 | Vulcania | Saint-Ours | ⭐️⭐️⭐️ |
+| 2023-04-09 | Château et remparts de la cité de Carcassonne | Carcassonne | ⭐️⭐️⭐️⭐️ |
+| 2023-04-07 | Château de Puilaurens | Puilaurens | ⭐️⭐️⭐️ |
+| 2023-04-07 | Château de Peyrepertuse | Peyrepertuse | ⭐️⭐️⭐️⭐️ |
+| 2023-02-25 | Augure (Baloji) | Modemuseum, Antwerp | ⭐️⭐️⭐️⭐️ |
+
 ## 2023
 
 | Date | Name | Location | Rating |

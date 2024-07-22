@@ -4,10 +4,10 @@ _(Click each year to see a full list of concerts seen that year.)_
 
 | Year | Favourite Concert |
 | --- | --- |
-| [2023](2023.md) |  |
+| [2023](2023.md) | Hania Rani at Ancienne Belgique |
 | [2022](2022.md) | Zwangere Guy & Lander Gyselinck at Ancienne Belgique |
-| [2021](2021.md) |  |
-| [2020](2020.md) |  |
+| [2021](2021.md) | Naima Joris at Ancienne Belgique |
+| [2020](2020.md) | 🦠 |
 | [2019](2019.md) | Pharoah Sanders Quartet at Jazz Middelheim |
 | [2018](2018.md) | Ezra Collective at Ancienne Belgique |
 | [2017](2017.md) | Nubya Garcia at Worldwide Festival |

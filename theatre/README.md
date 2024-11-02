@@ -6,6 +6,7 @@
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
+| 2024-10-15 | Werken en Dagen (FC Bergman) | NTGent, Gent | ⭐️⭐️ |
 | 2024-04-26 | Bedankt om te komen (Jade Mintjes) | Minard, Gent | ⭐️⭐️⭐️ |
 
 ## 2022

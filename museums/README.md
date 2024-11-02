@@ -4,6 +4,8 @@
 
 | Date | Name | Location | Rating |
 | --- | --- | --- | --- |
+| 2024-10-27 | Collection | K20, Düsseldorf | ⭐️⭐️⭐️⭐️ |
+| 2024-10-27 | Yoko Ono, Music of the Mind | K20, Düsseldorf | ⭐️⭐️⭐️ |
 | 2024-05-19 | Jef Verheyen, Window on Infinity | KMSK, Antwerp | ⭐️⭐️⭐️½ |
 | 2024-04-28 | In Limbo (Strook) | Nosbaum Reding, Brussels | ⭐️⭐️⭐️ |
 | 2024-04-21 | Castles in the Sky | Gent | ⭐️⭐️ |

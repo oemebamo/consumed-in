@@ -27,15 +27,15 @@ _(Click each year to see a full list of concerts seen that year.)_
 | [2005](2005.md) | Sleepwalker at De Kreun |  |
 | [2004](2004.md) | Bembe Segue at Rotterdam Import Festival |  |
 | [2003](2003.md) | Roy Hargrove at Gent Jazz Festival |  |
-| [2002](2002.md) | Jaga Jazzist at Ancienne Belgique |  |
-| [2001](2001.md) | Lamb at Ancienne Belgique |  |
-| [2000](2000.md) | Roni Size & Reprazent at Pukkelpop |  |
-| [1999](1999.md) | Fatboy Slim at Rock Werchter |  |
-| [1998](1998.md) | Björk at Rock Werchter |  |
-| [1997](1997.md) | Daft Punk at Rock Torhout |  |
-| [1995](1995.md) | Jeff Buckley at Rock Torhout |  |
-| [1994](1994.md) | Rage Against The Machine at Rock Torhout |  |
-| [1993](1993.md) | Leonard Cohen at Flanders Expo |  |
-| [1991](1991.md) |  |  |
-| [1987](1987.md) |  |  |
+| [2002](2002.md) | Jaga Jazzist at Ancienne Belgique | 24 |
+| [2001](2001.md) | Lamb at Ancienne Belgique | 17 |
+| [2000](2000.md) | Roni Size & Reprazent at Pukkelpop | 20 |
+| [1999](1999.md) | Fatboy Slim at Rock Werchter | 13 |
+| [1998](1998.md) | Björk at Rock Werchter | 12 |
+| [1997](1997.md) | Daft Punk at Rock Torhout | 11 |
+| [1995](1995.md) | Jeff Buckley at Rock Torhout | 11 |
+| [1994](1994.md) | Rage Against The Machine at Rock Torhout | 4 |
+| [1993](1993.md) | Leonard Cohen at Flanders Expo | 6 |
+| [1991](1991.md) |  | 1 |
+| [1987](1987.md) |  | 1 |
 
